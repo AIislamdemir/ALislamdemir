@@ -12,24 +12,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300EFFF&size=26&center=true&vCenter=true&width=700&lines=Islam+Demir;AI+Developer;Computer+Vision+Engineer;Deep+Learning+Enthusiast;Future+Robotics+Engineer;Building+Intelligent+Systems..." />
 </p>
 
-<!-- AI + MATRIX BANNER (NEURAL NETWORK + MATRIX VIBE) -->
+<!-- AI Neural Network Animation -->
 <p align="center">
-  <!-- AI Neural Network -->
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" 
-    width="600" 
-    alt="AI Neural Network Animation"
-  />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600">
 </p>
 
+<!-- Matrix Background Animation -->
 <p align="center">
-  <!-- Matrix Cyberpunk Animation (background vibe) -->
-  <img 
-    src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" 
-    width="600" 
-    alt="Matrix Animation"
-  />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600">
 </p>
+
 
 <!-- BADGES -->
 <p align="center">
