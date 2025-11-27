@@ -14,13 +14,17 @@
 
 <!-- DOUBLE AI ANIMATION BANNER -->
 <p align="center">
-  <!-- AI Neural Network Animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" width="600" />
+  <!-- 🔹 AI Neural Network Animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" 
+       width="600" 
+       alt="AI Neural Network Animation"/>
 </p>
 
 <p align="center">
-  <!-- Matrix Cyberpunk Animation -->
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600" />
+  <!-- 🔹 Matrix Cyberpunk Animation -->
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" 
+       width="600" 
+       alt="Matrix Animation"/>
 </p>
 
 <!-- BADGES -->
