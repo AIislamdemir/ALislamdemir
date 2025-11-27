@@ -1,4 +1,4 @@
-# ALislamdemir
+# AIislamdemir
 
 <!-- GLOWING TITLE -->
 <h1 align="center">
@@ -7,24 +7,28 @@
   </span>
 </h1>
 
-<!-- NAME ANIMATION (Special for Islam Demir) -->
+<!-- NAME / ROLE ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300EFFF&size=26&center=true&vCenter=true&width=700&lines=Islam+Demir;AI+Developer;Computer+Vision+Engineer;Deep+Learning+Enthusiast;Future+Robotics+Engineer;Building+Intelligent+Systems..." />
 </p>
 
-<!-- DOUBLE AI ANIMATION BANNER -->
+<!-- AI + MATRIX BANNER (NEURAL NETWORK + MATRIX VIBE) -->
 <p align="center">
-  <!-- 🔹 AI Neural Network Animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" 
-       width="600" 
-       alt="AI Neural Network Animation"/>
+  <!-- AI Neural Network -->
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" 
+    width="600" 
+    alt="AI Neural Network Animation"
+  />
 </p>
 
 <p align="center">
-  <!-- 🔹 Matrix Cyberpunk Animation -->
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" 
-       width="600" 
-       alt="Matrix Animation"/>
+  <!-- Matrix Cyberpunk Animation (background vibe) -->
+  <img 
+    src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" 
+    width="600" 
+    alt="Matrix Animation"
+  />
 </p>
 
 <!-- BADGES -->
@@ -38,11 +42,11 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working on: **Sign Language to Text AI**, **Gesture Recognition**
-- 🤖 Focus Areas: **AI, CV, NLP, Deep Learning, Medical AI, Assistive Technologies**
+- 🤖 Focus Areas: **AI, Computer Vision, NLP, Deep Learning, Medical AI, Assistive Technologies**
 - 🎓 Computer Engineering Student  
 - 🌱 Learning: **PyTorch, YOLOv8, TensorFlow, Deep Reinforcement Learning**
 - 💡 Interested in: **Robotics, AI-powered wearable devices**
-- 📫 Contact: **your-email@gmail.com**
+- 📫 Contact: **your-email@gmail.com** <!-- burayı kendi mailinle değiştir -->
 
 ---
 
@@ -76,15 +80,14 @@ Control your computer with hand gestures using AI.
 Real-time sign detection using AI + Computer Vision.
 
 ### 🔹 **Breast Cancer Detection with Artificial Intelligence**
-CNN–based medical diagnosis system (Early cancer detection).
+CNN–based medical diagnosis system (early cancer detection with CNN).
 
 ### 🔹 **Real-Time Object Detection From Video (YOLOv8)**
-Detects multiple objects instantly from video stream.
+Detects multiple objects instantly from live video streams.
 
 ### 🔹 **AI Powered Smart Glasses for The Visually Impaired**
 Wearable device that describes the environment with voice output.
 
-➡ *Bu projeleri mutlaka profilinde “Pinned” yap.*
 
 ---
 
@@ -104,15 +107,8 @@ Wearable device that describes the environment with voice output.
 
 ---
 
-## 🎥 AI GIF Banner
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600"/>
-</p>
-
----
-
 ## 🌐 Social Links
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/islam-demir-aa0792256/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
