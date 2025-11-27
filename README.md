@@ -1,17 +1,26 @@
 # ALislamdemir
 
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <b>Islam Demir</b></h1>
-<h3 align="center">AI & Computer Vision Developer | Computer Engineering Student</h3>
+<!-- GLOWING TITLE -->
+<h1 align="center">
+  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff, 0 0 40px #00eaff;">
+    🚀 Islam Demir — AI & Computer Vision Developer 🚀
+  </span>
+</h1>
 
-<!-- MATRIX ANİMASYON BANNER -->
+<!-- NAME ANIMATION (Special for Islam Demir) -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300EFFF&size=26&center=true&vCenter=true&width=700&lines=Islam+Demir;AI+Developer;Computer+Vision+Engineer;Deep+Learning+Enthusiast;Future+Robotics+Engineer;Building+Intelligent+Systems..." />
 </p>
 
-<!-- DYNAMIC TEXT ANIMATION -->
+<!-- DOUBLE AI ANIMATION BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23EC7600&size=22&center=true&vCenter=true&width=600&lines=AI+Developer;Computer+Vision+Engineer;Deep+Learning+Enthusiast;Future+Robotics+Engineer;Always+Learning+More!" />
+  <!-- AI Neural Network Animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BjZDBiMGsyYzNnbGpncGp4eWJhYWI2bXFrcjd6Y2R0ZWlrdDNpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcQD/giphy.gif" width="600" />
+</p>
+
+<p align="center">
+  <!-- Matrix Cyberpunk Animation -->
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600" />
 </p>
 
 <!-- BADGES -->
@@ -109,4 +118,3 @@ Wearable device that describes the environment with voice output.
 
 ## ✨ Quote
 > "The future belongs to those who build intelligent systems."
-
