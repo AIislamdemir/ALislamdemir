@@ -38,7 +38,7 @@
 - 🎓 Computer Engineering Student  
 - 🌱 Learning: **PyTorch, YOLOv8, TensorFlow, Deep Reinforcement Learning**
 - 💡 Interested in: **Robotics, AI-powered wearable devices**
-- 📫 Contact: **your-email@gmail.com** <!-- burayı kendi mailinle değiştir -->
+- 📫 Contact: **islamdemir6350@gmail..com** 
 
 ---
 
