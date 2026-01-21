@@ -80,6 +80,10 @@ Detects multiple objects instantly from live video streams.
 ### 🔹 **AI Powered Smart Glasses for The Visually Impaired**
 Wearable device that describes the environment with voice output.
 
+### 🔹 **AI Desktop Voice Assistant (Siri-like for Computer) — In Progress
+A screen-based, voice-controlled AI assistant for computers with wake-word activation, animated UI, and system-level command execution.
+
+
 
 ---
 
